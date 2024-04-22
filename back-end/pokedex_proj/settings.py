@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "pokemon_app",
     "rest_framework",
-    "corsheaders",
+    # "corsheaders",
+    "move_app",
 ]
 
 MIDDLEWARE = [
